@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Padre nostro",
+      "text": "Padre nostro, che sei nei cieli,\nsia santificato il tuo nome,\nvenga il tuo regno,\nsia fatta la tua volontà, come in cielo così in terra.\nDacci oggi il nostro pane quotidiano,\ne rimetti a noi i nostri debiti\ncome noi li rimettiamo ai nostri debitori,\ne non abbandonarci alla tentazione,\nma liberaci dal male.\nAmen."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Ave Maria",
+      "text": "Ave, o Maria, piena di grazia, il Signore è con te.\nTu sei benedetta fra le donne\ne benedetto è il frutto del tuo seno, Gesù.\nSanta Maria, Madre di Dio,\nprega per noi peccatori,\nadesso e nell’ora della nostra morte.\nAmen."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Gloria al Padre",
+      "text": "Gloria al Padre e al Figlio e allo Spirito Santo,\ncome era nel principio, e ora e sempre\nnei secoli dei secoli.\nAmen."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "Credo (Simbolo degli Apostoli)",
+      "text": "Io credo in Dio, Padre onnipotente,\ncreatore del cielo e della terra.\nE in Gesù Cristo, suo unico Figlio, nostro Signore,\nil quale fu concepito di Spirito Santo,\nnacque da Maria Vergine,\npatì sotto Ponzio Pilato,\nfu crocifisso, morì e fu sepolto;\ndiscese agli inferi, il terzo giorno risuscitò da morte;\nsalì al cielo, siede alla destra di Dio Padre onnipotente;\ndi là verrà a giudicare i vivi e i morti.\nCredo nello Spirito Santo,\nla santa Chiesa cattolica, la comunione dei santi,\nla remissione dei peccati, la risurrezione della carne,\nla vita eterna.\nAmen."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "L’Angelus",
+      "text": "L’angelo del Signore portò l’annuncio a Maria.\nEd ella concepì per opera dello Spirito Santo.\n\nAve, o Maria...\n\nEccomi, sono la serva del Signore.\nSi compia in me la tua parola.\n\nAve, o Maria...\n\nE il Verbo si fece carne.\nE venne ad abitare in mezzo a noi.\n\nAve, o Maria...\n\nPrega per noi, santa Madre di Dio.\nPerché siamo resi degni delle promesse di Cristo.\n\nPreghiamo: Infondi nel nostro spirito la tua grazia, o Padre; tu, che nell’annuncio dell’angelo ci hai rivelato l’incarnazione del tuo Figlio, per la sua passione e la sua croce guidaci alla gloria della risurrezione. Per Cristo nostro Signore.\nAmen."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "Sotto la tua protezione",
+      "text": "Sotto la tua protezione cerchiamo rifugio, santa Madre di Dio.\nNon disprezzare le suppliche di noi che siamo nella prova,\ne liberaci da ogni pericolo,\no Vergine gloriosa e benedetta.\nO nostra Signora, nostra avvocata,\nnostra mediatrice, nostra consolatrice.\nRiconcilia noi con il tuo Figlio,\nraccomanda noi al tuo Figlio,\npresenta noi al tuo Figlio.\nAmen."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Angelo di Dio",
+      "text": "Angelo di Dio,\nche sei il mio custode,\nillumina, custodisci,\nreggi e governa me,\nche ti fui affidato\ndalla pietà celeste.\nAmen."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Atto di dolore",
+      "text": "Mio Dio, mi pento e mi dolgo con tutto il cuore dei miei peccati,\nperché peccando ho meritato i tuoi castighi,\ne molto più perché ho offeso te, infinitamente buono\ne degno di essere amato sopra ogni cosa.\nPropongo con il tuo santo aiuto di non offenderti mai più\ne di fuggire le occasioni prossime di peccato.\nSignore, misericordia, perdonami.\nAmen."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Anima di Cristo",
+      "text": "Anima di Cristo, santificami.\nCorpo di Cristo, salvami.\nSangue di Cristo, inebriami.\nAcqua del costato di Cristo, lavami.\nPassione di Cristo, confortami.\nO buon Gesù, esaudiscimi.\nNelle tue piaghe nascondimi.\nNon permettere che io sia separato da te.\nDal nemico maligno difendimi.\nNell’ora della mia morte chiamami\ne comandami di venire a te,\naffinché con i tuoi santi ti lodi\nnei secoli dei secoli.\nAmen."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Litanie Lauretane (frammento)",
+      "text": "Signore, pietà. Cristo, pietà. Signore, pietà.\nCristo, ascoltaci. Cristo, esaudiscici.\n\nPadre celeste, Dio — abbi pietà di noi.\nFiglio, redentore del mondo, Dio — abbi pietà di noi.\nSpirito Santo, Dio — abbi pietà di noi.\nSanta Trinità, unico Dio — abbi pietà di noi.\n\nSanta Maria — prega per noi.\nSanta Madre di Dio — prega per noi.\nSanta Vergine delle vergini — prega per noi.\nMadre di Cristo — prega per noi.\nMadre della Chiesa — prega per noi.\nMadre della divina grazia — prega per noi.\nMadre purissima — prega per noi.\nMadre castissima — prega per noi.\nMadre del buon consiglio — prega per noi.\nVergine fedele — prega per noi.\nSpecchio della santità divina — prega per noi.\nSede della sapienza — prega per noi.\nCausa della nostra letizia — prega per noi.\nSalute degli infermi — prega per noi.\nRifugio dei peccatori — prega per noi.\nConsolatrice degli afflitti — prega per noi.\nAiuto dei cristiani — prega per noi.\nRegina degli angeli — prega per noi.\nRegina di tutti i santi — prega per noi.\nRegina della pace — prega per noi.\n\nAgnello di Dio, che togli i peccati del mondo — perdonaci, o Signore.\nAgnello di Dio, che togli i peccati del mondo — ascoltaci, o Signore.\nAgnello di Dio, che togli i peccati del mondo — abbi pietà di noi.\n\nPrega per noi, santa Madre di Dio.\nE saremo resi degni delle promesse di Cristo.\nAmen."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "Il Rosario — come si prega",
+      "text": "Sul crocifisso: Credo...\nSul primo grano: Padre nostro...\nSui tre grani: 3 volte Ave Maria (per la fede, la speranza e la carità).\nGloria al Padre...\n\nPer ciascuno dei cinque misteri: Padre nostro, 10 volte Ave Maria, Gloria al Padre.\n\nMISTERI DELLA GIOIA (lunedì, sabato):\n1. L’annuncio dell’angelo a Maria\n2. La visita di Maria a santa Elisabetta\n3. La nascita di Gesù a Betlemme\n4. La presentazione di Gesù al tempio\n5. Il ritrovamento di Gesù nel tempio\n\nMISTERI DELLA LUCE (giovedì):\n1. Il battesimo di Gesù nel Giordano\n2. Le nozze di Cana\n3. L’annuncio del regno di Dio e l’invito alla conversione\n4. La trasfigurazione sul monte Tabor\n5. L’istituzione dell’Eucaristia\n\nMISTERI DEL DOLORE (martedì, venerdì):\n1. L’agonia di Gesù nel Getsemani\n2. La flagellazione di Gesù\n3. L’incoronazione di spine\n4. Il cammino al Calvario con la croce\n5. La crocifissione e la morte di Gesù\n\nMISTERI DELLA GLORIA (mercoledì, domenica):\n1. La risurrezione di Gesù\n2. L’ascensione di Gesù al cielo\n3. La discesa dello Spirito Santo\n4. L’assunzione di Maria al cielo\n5. L’incoronazione di Maria regina del cielo e della terra"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Preghiera del mattino",
+      "text": "Dio uno e trino, Padre, Figlio e Spirito Santo,\nti ringrazio per la notte trascorsa\ne per questo nuovo giorno che mi doni.\n\nTi offro tutti i pensieri, le parole e le opere di questo giorno.\nSiano per la tua gloria e per il bene del mio prossimo.\nCustodiscimi dal peccato e da tutto ciò che mi allontana da te.\n\nMaria, Madre di Dio, avvolgimi con la tua protezione per tutto questo giorno.\nAngelo di Dio, mio custode, guidami sulle vie del bene.\nAmen."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Offerta della giornata",
+      "text": "O Gesù, per mezzo del Cuore Immacolato di Maria,\nti offro le preghiere, le azioni, le gioie e le sofferenze di questo giorno,\nin riparazione dei peccati,\nper la salvezza di tutti gli uomini,\nin unione con il sacrificio della santa Messa in tutto il mondo,\nsecondo le intenzioni del Santo Padre.\nAmen."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Esame di coscienza",
+      "text": "O Dio, al termine di questa giornata mi presento davanti a te.\n\nTi ringrazio per tutti i doni che ho ricevuto oggi,\nper i momenti di bene che mi sono accaduti,\nper l’aiuto che ho potuto offrire agli altri.\n\nTi chiedo perdono per i pensieri, le parole e le opere con cui ti ho offeso,\ne per ciò che ho trascurato di fare per amore tuo e del prossimo.\n\nTi chiedo per il domani la forza di compiere il bene,\nil coraggio di evitare il male\ne la grazia di vivere secondo la tua volontà.\nAmen."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Preghiera della sera",
+      "text": "O Dio, ti ringrazio per questo giorno che è appena trascorso,\nper ogni bene che mi hai concesso.\n\nTi chiedo perdono per tutto ciò con cui oggi ti ho offeso.\nRimetti i miei peccati e le mie colpe.\n\nTi affido i miei cari, gli amici\ne tutti coloro che hanno bisogno del tuo aiuto.\n\nAlla tua protezione affido questa notte.\nFa’ che io riposi in pace\ne che al mattino mi alzi per servirti.\nAmen."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Coroncina alla Divina Misericordia",
+      "text": "All’inizio: Padre nostro... Ave Maria... Credo in Dio...\n\nSui grani grandi (una volta per ogni decina):\nEterno Padre, ti offro il Corpo e il Sangue,\nl’Anima e la Divinità del tuo dilettissimo Figlio,\nNostro Signore Gesù Cristo,\nin espiazione dei nostri peccati e di quelli del mondo intero.\n\nSui grani piccoli (10 volte):\nPer la sua dolorosa Passione,\nabbi misericordia di noi e del mondo intero.\n\nAlla fine (3 volte):\nSanto Dio, Santo Forte, Santo Immortale,\nabbi pietà di noi e del mondo intero.\nAmen."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Novena allo Spirito Santo",
+      "text": "(Da recitarsi per 9 giorni consecutivi)\n\nSpirito Santo, ti preghiamo,\nmanda a noi i tuoi sette doni:\n\nIl dono della sapienza — perché conosciamo Dio e la sua volontà.\nIl dono dell’intelletto — perché comprendiamo le verità della fede.\nIl dono del consiglio — perché nei momenti difficili troviamo la via buona.\nIl dono della fortezza — perché perseveriamo nel bene.\nIl dono della scienza — perché valutiamo rettamente le cose create.\nIl dono della pietà — perché amiamo Dio e gli uomini.\nIl dono del timore di Dio — perché temiamo di offendere Dio.\n\nVieni, Spirito Santo,\nriempi i cuori dei tuoi fedeli\ne accendi in essi il fuoco del tuo amore.\nAmen."
+    }
+  ]
+}

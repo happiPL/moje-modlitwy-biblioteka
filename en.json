@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Our Father",
+      "text": "Our Father, who art in heaven,\nhallowed be thy name;\nthy kingdom come,\nthy will be done on earth as it is in heaven.\nGive us this day our daily bread,\nand forgive us our trespasses,\nas we forgive those who trespass against us;\nand lead us not into temptation,\nbut deliver us from evil.\nAmen."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Hail Mary",
+      "text": "Hail Mary, full of grace, the Lord is with thee.\nBlessed art thou amongst women,\nand blessed is the fruit of thy womb, Jesus.\nHoly Mary, Mother of God,\npray for us sinners,\nnow and at the hour of our death.\nAmen."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Glory Be",
+      "text": "Glory be to the Father, and to the Son, and to the Holy Spirit,\nas it was in the beginning, is now,\nand ever shall be,\nworld without end.\nAmen."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "The Apostles' Creed",
+      "text": "I believe in God, the Father almighty,\nCreator of heaven and earth,\nand in Jesus Christ, his only Son, our Lord,\nwho was conceived by the Holy Spirit,\nborn of the Virgin Mary,\nsuffered under Pontius Pilate,\nwas crucified, died and was buried.\nHe descended into hell; on the third day he rose again from the dead.\nHe ascended into heaven, and is seated at the right hand of God the Father almighty.\nFrom there he will come to judge the living and the dead.\nI believe in the Holy Spirit,\nthe holy catholic Church, the communion of saints,\nthe forgiveness of sins, the resurrection of the body,\nand life everlasting.\nAmen."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "The Angelus",
+      "text": "The Angel of the Lord declared unto Mary.\nAnd she conceived of the Holy Spirit.\n\nHail Mary...\n\nBehold the handmaid of the Lord.\nBe it done unto me according to thy word.\n\nHail Mary...\n\nAnd the Word was made flesh.\nAnd dwelt among us.\n\nHail Mary...\n\nPray for us, O holy Mother of God.\nThat we may be made worthy of the promises of Christ.\n\nLet us pray: Pour forth, we beseech thee, O Lord, thy grace into our hearts, that we, to whom the Incarnation of Christ, thy Son, was made known by the message of an angel, may by his Passion and Cross be brought to the glory of his Resurrection. Through the same Christ our Lord.\nAmen."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "We Fly to Thy Protection",
+      "text": "We fly to thy protection, O holy Mother of God.\nDespise not our petitions in our necessities,\nbut deliver us always from all dangers,\nO glorious and blessed Virgin.\nO our Lady, our Mediatrix,\nour Advocate, our Consolatrix.\nReconcile us to thy Son,\ncommend us to thy Son,\npresent us to thy Son.\nAmen."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Guardian Angel Prayer",
+      "text": "Angel of God, my guardian dear,\nto whom God's love commits me here,\never this day be at my side,\nto light and guard, to rule and guide.\nAmen."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Act of Contrition",
+      "text": "O my God, I am heartily sorry for having offended thee,\nand I detest all my sins because of thy just punishments,\nbut most of all because they offend thee, my God,\nwho art all good and deserving of all my love.\nI firmly resolve, with the help of thy grace,\nto sin no more and to avoid the near occasions of sin.\nAmen."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Soul of Christ (Anima Christi)",
+      "text": "Soul of Christ, sanctify me.\nBody of Christ, save me.\nBlood of Christ, inebriate me.\nWater from the side of Christ, wash me.\nPassion of Christ, strengthen me.\nO good Jesus, hear me.\nWithin thy wounds hide me.\nSuffer me not to be separated from thee.\nFrom the malicious enemy defend me.\nIn the hour of my death call me\nand bid me come unto thee,\nthat with thy saints I may praise thee\nfor ever and ever.\nAmen."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Litany of Loreto (fragment)",
+      "text": "Lord, have mercy. Christ, have mercy. Lord, have mercy.\nChrist, hear us. Christ, graciously hear us.\n\nGod the Father of heaven — have mercy on us.\nGod the Son, Redeemer of the world — have mercy on us.\nGod the Holy Spirit — have mercy on us.\nHoly Trinity, one God — have mercy on us.\n\nHoly Mary — pray for us.\nHoly Mother of God — pray for us.\nHoly Virgin of virgins — pray for us.\nMother of Christ — pray for us.\nMother of the Church — pray for us.\nMother of divine grace — pray for us.\nMother most pure — pray for us.\nMother most amiable — pray for us.\nMother of good counsel — pray for us.\nVirgin most faithful — pray for us.\nMirror of justice — pray for us.\nSeat of wisdom — pray for us.\nCause of our joy — pray for us.\nHealth of the sick — pray for us.\nRefuge of sinners — pray for us.\nComforter of the afflicted — pray for us.\nHelp of Christians — pray for us.\nQueen of Angels — pray for us.\nQueen of all Saints — pray for us.\nQueen of peace — pray for us.\n\nLamb of God, who takes away the sins of the world — spare us, O Lord.\nLamb of God, who takes away the sins of the world — graciously hear us, O Lord.\nLamb of God, who takes away the sins of the world — have mercy on us.\n\nPray for us, O holy Mother of God.\nThat we may be made worthy of the promises of Christ.\nAmen."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "The Rosary — how to pray",
+      "text": "On the crucifix: the Apostles' Creed.\nOn the first bead: Our Father.\nOn the next three beads: 3 × Hail Mary (for faith, hope and love).\nGlory Be.\n\nEach of the five mysteries: Our Father, 10 × Hail Mary, Glory Be.\n\nTHE JOYFUL MYSTERIES (Monday, Saturday):\n1. The Annunciation\n2. The Visitation\n3. The Nativity of Our Lord\n4. The Presentation in the Temple\n5. The Finding of Jesus in the Temple\n\nTHE LUMINOUS MYSTERIES (Thursday):\n1. The Baptism of Jesus in the Jordan\n2. The Wedding at Cana\n3. The Proclamation of the Kingdom and the call to conversion\n4. The Transfiguration\n5. The Institution of the Eucharist\n\nTHE SORROWFUL MYSTERIES (Tuesday, Friday):\n1. The Agony in the Garden\n2. The Scourging at the Pillar\n3. The Crowning with Thorns\n4. The Carrying of the Cross\n5. The Crucifixion and Death of Our Lord\n\nTHE GLORIOUS MYSTERIES (Wednesday, Sunday):\n1. The Resurrection\n2. The Ascension\n3. The Descent of the Holy Spirit\n4. The Assumption of the Blessed Virgin Mary\n5. The Coronation of Mary as Queen of Heaven and Earth"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Morning Prayer",
+      "text": "O God, One in the Holy Trinity, Father, Son and Holy Spirit,\nI thank you for the night that has passed,\nand for this new day that you give me.\n\nI offer you all the thoughts, words and deeds of this day.\nMay they be for your glory and for the good of my neighbors.\nKeep me from sin and from all that draws me away from you.\n\nMary, Mother of God, surround me with your care throughout this day.\nAngel of God, my guardian, lead me along the paths of goodness.\nAmen."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Morning Offering",
+      "text": "O Jesus, through the Immaculate Heart of Mary,\nI offer you my prayers, works, joys and sufferings of this day,\nin reparation for my sins,\nfor the salvation of all people,\nin union with the Holy Sacrifice of the Mass throughout the world,\nfor the intentions of the Holy Father.\nAmen."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Examination of Conscience",
+      "text": "O God, at the close of this day I stand before you.\n\nI thank you for all the gifts I received today,\nfor the moments of goodness that came my way,\nfor the help I was able to give to others.\n\nI am sorry for the thoughts, words and deeds by which I offended you,\nand for what I failed to do out of love for you and my neighbors.\n\nI ask you for the strength to do good tomorrow,\nfor the courage to avoid evil,\nand for the grace to live according to your will.\nAmen."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Evening Prayer",
+      "text": "O God, I thank you for this day that has just passed,\nfor all the good you have shown me.\n\nI am sorry for everything by which I offended you today.\nForgive me my sins and my faults.\n\nI commend to you my loved ones, my friends,\nand all who are in need of your help.\n\nTo your care I entrust this night.\nGrant that I may rest in peace,\nand rise in the morning to serve you.\nAmen."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Chaplet of Divine Mercy",
+      "text": "At the beginning: Our Father... Hail Mary... The Apostles' Creed...\n\nOn the large beads (once before each decade):\nEternal Father, I offer you the Body and Blood,\nSoul and Divinity of your dearly beloved Son,\nour Lord Jesus Christ,\nin atonement for our sins and those of the whole world.\n\nOn the small beads (10 times):\nFor the sake of his sorrowful Passion,\nhave mercy on us and on the whole world.\n\nAt the conclusion (3 times):\nHoly God, Holy Mighty One, Holy Immortal One,\nhave mercy on us and on the whole world.\nAmen."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Novena to the Holy Spirit",
+      "text": "(Prayed on nine consecutive days)\n\nHoly Spirit, we beseech you,\nsend down upon us your seven gifts:\n\nThe gift of wisdom — that we may know God and his will.\nThe gift of understanding — that we may grasp the truths of the faith.\nThe gift of counsel — that in difficult moments we may find the right path.\nThe gift of fortitude — that we may persevere in doing good.\nThe gift of knowledge — that we may rightly judge created things.\nThe gift of piety — that we may love God and neighbor.\nThe gift of fear of the Lord — that we may fear to offend God.\n\nCome, Holy Spirit,\nfill the hearts of your faithful\nand kindle in them the fire of your love.\nAmen."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Notre Père",
+      "text": "Notre Père, qui es aux cieux,\nque ton nom soit sanctifié,\nque ton règne vienne,\nque ta volonté soit faite sur la terre comme au ciel.\nDonne-nous aujourd’hui notre pain de ce jour.\nPardonne-nous nos offenses,\ncomme nous pardonnons aussi à ceux qui nous ont offensés.\nEt ne nous laisse pas entrer en tentation,\nmais délivre-nous du Mal.\nAmen."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Je vous salue Marie",
+      "text": "Je vous salue, Marie, pleine de grâce ;\nle Seigneur est avec vous.\nVous êtes bénie entre toutes les femmes\net Jésus, le fruit de vos entrailles, est béni.\nSainte Marie, Mère de Dieu,\npriez pour nous, pauvres pécheurs,\nmaintenant et à l’heure de notre mort.\nAmen."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Gloire au Père",
+      "text": "Gloire au Père, et au Fils, et au Saint-Esprit,\ncomme il était au commencement, maintenant et toujours,\net pour les siècles des siècles.\nAmen."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "Je crois en Dieu (Symbole des Apôtres)",
+      "text": "Je crois en Dieu, le Père tout-puissant,\ncréateur du ciel et de la terre.\nEt en Jésus-Christ, son Fils unique, notre Seigneur,\nqui a été conçu du Saint-Esprit,\nest né de la Vierge Marie,\na souffert sous Ponce Pilate,\na été crucifié, est mort et a été enseveli,\nest descendu aux enfers,\nle troisième jour est ressuscité des morts,\nest monté aux cieux, est assis à la droite de Dieu le Père tout-puissant,\nd’où il viendra juger les vivants et les morts.\nJe crois en l’Esprit Saint,\nà la sainte Église catholique, à la communion des saints,\nà la rémission des péchés, à la résurrection de la chair,\nà la vie éternelle.\nAmen."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "L’Angélus",
+      "text": "L’ange du Seigneur porta l’annonce à Marie.\nEt elle conçut du Saint-Esprit.\n\nJe vous salue, Marie...\n\nVoici la servante du Seigneur.\nQu’il me soit fait selon ta parole.\n\nJe vous salue, Marie...\n\nEt le Verbe s’est fait chair.\nEt il a habité parmi nous.\n\nJe vous salue, Marie...\n\nPriez pour nous, sainte Mère de Dieu.\nAfin que nous soyons rendus dignes des promesses du Christ.\n\nPrions : Que ta grâce, Seigneur, se répande en nos cœurs. Par le message de l’ange, tu nous as fait connaître l’Incarnation de ton Fils bien-aimé ; conduis-nous, par sa passion et par sa croix, jusqu’à la gloire de la résurrection. Par le Christ, notre Seigneur.\nAmen."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "Sous ta protection",
+      "text": "Sous ta protection nous cherchons refuge, sainte Mère de Dieu.\nNe méprise pas nos prières quand nous sommes dans l’épreuve,\nmais de tous les dangers délivre-nous toujours,\nVierge glorieuse et bénie.\nÔ notre Dame, notre médiatrice, notre avocate,\nà ton Fils réconcilie-nous,\nà ton Fils recommande-nous,\nà ton Fils présente-nous.\nAmen."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Ange de Dieu (Ange gardien)",
+      "text": "Ange de Dieu, qui es mon gardien,\net à qui je fus confié par la bonté divine,\néclaire-moi, garde-moi,\ndirige-moi et gouverne-moi,\naujourd’hui et toujours.\nAmen."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Acte de contrition",
+      "text": "Mon Dieu, j’ai un très grand regret\nde t’avoir offensé,\nparce que tu es infiniment bon,\ninfiniment aimable,\net que le péché te déplaît.\nJe prends la ferme résolution,\navec le secours de ta sainte grâce,\nde ne plus t’offenser\net de faire pénitence.\nAmen."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Âme du Christ",
+      "text": "Âme du Christ, sanctifie-moi.\nCorps du Christ, sauve-moi.\nSang du Christ, enivre-moi.\nEau du côté du Christ, lave-moi.\nPassion du Christ, fortifie-moi.\nÔ bon Jésus, exauce-moi.\nDans tes blessures, cache-moi.\nNe permets pas que je sois séparé de toi.\nDe l’ennemi maléfique, défends-moi.\nÀ l’heure de ma mort, appelle-moi.\nEt ordonne-moi de venir à toi,\npour qu’avec tes saints je te loue\ndans les siècles des siècles.\nAmen."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Litanies de Lorette (extrait)",
+      "text": "Seigneur, aie pitié. Ô Christ, aie pitié. Seigneur, aie pitié.\nÔ Christ, écoute-nous. Ô Christ, exauce-nous.\n\nPère céleste, Dieu — aie pitié de nous.\nFils, Rédempteur du monde, Dieu — aie pitié de nous.\nEsprit Saint, Dieu — aie pitié de nous.\nTrinité sainte, un seul Dieu — aie pitié de nous.\n\nSainte Marie — priez pour nous.\nSainte Mère de Dieu — priez pour nous.\nSainte Vierge des vierges — priez pour nous.\nMère du Christ — priez pour nous.\nMère de l’Église — priez pour nous.\nMère de la divine grâce — priez pour nous.\nMère très pure — priez pour nous.\nMère très aimable — priez pour nous.\nMère du bon conseil — priez pour nous.\nVierge fidèle — priez pour nous.\nMiroir de justice — priez pour nous.\nTrône de la sagesse — priez pour nous.\nCause de notre joie — priez pour nous.\nSalut des infirmes — priez pour nous.\nRefuge des pécheurs — priez pour nous.\nConsolatrice des affligés — priez pour nous.\nSecours des chrétiens — priez pour nous.\nReine des anges — priez pour nous.\nReine de tous les saints — priez pour nous.\nReine de la paix — priez pour nous.\n\nAgneau de Dieu, qui enlèves les péchés du monde — pardonne-nous, Seigneur.\nAgneau de Dieu, qui enlèves les péchés du monde — exauce-nous, Seigneur.\nAgneau de Dieu, qui enlèves les péchés du monde — aie pitié de nous.\n\nPriez pour nous, sainte Mère de Dieu.\nAfin que nous soyons rendus dignes des promesses du Christ.\nAmen."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "Le Rosaire — comment le prier",
+      "text": "Sur le crucifix : Je crois en Dieu...\nSur le premier grain : Notre Père...\nSur les trois grains : 3 × Je vous salue Marie (pour la foi, l’espérance et la charité).\nGloire au Père...\n\nPour chacun des cinq mystères : Notre Père, 10 × Je vous salue Marie, Gloire au Père.\n\nMYSTÈRES JOYEUX (lundi, samedi) :\n1. L’Annonciation à la Vierge Marie\n2. La Visitation de la Vierge Marie à sainte Élisabeth\n3. La Nativité de Jésus\n4. La Présentation de Jésus au Temple\n5. Le Recouvrement de Jésus au Temple\n\nMYSTÈRES LUMINEUX (jeudi) :\n1. Le Baptême de Jésus au Jourdain\n2. Les Noces de Cana\n3. L’annonce du Royaume de Dieu et l’appel à la conversion\n4. La Transfiguration au mont Thabor\n5. L’institution de l’Eucharistie\n\nMYSTÈRES DOULOUREUX (mardi, vendredi) :\n1. L’Agonie de Jésus au jardin des Oliviers\n2. La Flagellation de Jésus\n3. Le Couronnement d’épines\n4. Le Portement de la croix\n5. La Crucifixion et la mort de Jésus\n\nMYSTÈRES GLORIEUX (mercredi, dimanche) :\n1. La Résurrection de Jésus\n2. L’Ascension du Seigneur\n3. La Pentecôte, descente de l’Esprit Saint\n4. L’Assomption de la Vierge Marie\n5. Le Couronnement de la Vierge Marie, Reine du ciel et de la terre"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Prière du matin",
+      "text": "Dieu un en trois Personnes, Père, Fils et Saint-Esprit,\nje te rends grâce pour la nuit qui vient de passer,\net pour ce jour nouveau que tu me donnes.\n\nJe t’offre toutes mes pensées, mes paroles et mes actions de ce jour.\nQu’elles soient à ta gloire et au service de mes frères.\nGarde-moi du péché et de tout ce qui m’éloigne de toi.\n\nMarie, Mère de Dieu, protège-moi tout au long de cette journée.\nAnge de Dieu, mon gardien, conduis-moi sur les chemins du bien.\nAmen."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Offrande de la journée",
+      "text": "Ô Jésus, par le Cœur Immaculé de Marie,\nje t’offre les prières, les œuvres, les joies et les souffrances de cette journée,\nen réparation de nos péchés,\npour le salut de tous les hommes,\nen union avec le sacrifice de la sainte Messe à travers le monde,\naux intentions du Saint-Père.\nAmen."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Examen de conscience",
+      "text": "Mon Dieu, au terme de ce jour, je me tiens devant toi.\n\nJe te rends grâce pour tous les dons que j’ai reçus aujourd’hui,\npour les moments de bien qui me sont arrivés,\npour l’aide que j’ai pu apporter aux autres.\n\nJe te demande pardon pour les pensées, les paroles et les actions par lesquelles je t’ai offensé,\net pour ce que j’ai négligé de faire par amour pour toi et pour mon prochain.\n\nJe te demande pour demain la force de faire le bien,\nle courage d’éviter le mal,\net la grâce de vivre selon ta volonté.\nAmen."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Prière du soir",
+      "text": "Mon Dieu, je te rends grâce pour ce jour qui vient de s’achever,\npour tout le bien que tu m’as accordé.\n\nJe te demande pardon pour tout ce dont je t’ai offensé aujourd’hui.\nRemets-moi mes péchés et mes fautes.\n\nJe te confie mes proches, mes amis\net tous ceux qui ont besoin de ton aide.\n\nJe remets cette nuit à ta protection.\nFais que je repose dans la paix,\net qu’au matin je me lève pour te servir.\nAmen."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Chapelet de la Miséricorde Divine",
+      "text": "Au commencement : Notre Père... Je vous salue Marie... Je crois en Dieu...\n\nSur les gros grains (une fois pour chaque dizaine) :\nPère Éternel, je t’offre le Corps et le Sang,\nl’Âme et la Divinité de ton Fils bien-aimé,\nnotre Seigneur Jésus-Christ,\nen réparation de nos péchés et de ceux du monde entier.\n\nSur les petits grains (10 fois) :\nPar sa douloureuse Passion,\nsois miséricordieux pour nous et pour le monde entier.\n\nPour terminer (3 fois) :\nDieu saint, Dieu fort, Dieu éternel,\nprends pitié de nous et du monde entier.\nAmen."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Neuvaine au Saint-Esprit",
+      "text": "(À réciter pendant 9 jours consécutifs)\n\nEsprit Saint, nous t’en prions,\nrépands sur nous tes sept dons :\n\nLe don de sagesse — pour que nous connaissions Dieu et sa volonté.\nLe don d’intelligence — pour que nous comprenions les vérités de la foi.\nLe don de conseil — pour que, dans les moments difficiles, nous trouvions le bon chemin.\nLe don de force — pour que nous persévérions dans le bien.\nLe don de science — pour que nous jugions droitement des choses créées.\nLe don de piété — pour que nous aimions Dieu et les hommes.\nLe don de crainte de Dieu — pour que nous craignions d’offenser Dieu.\n\nViens, Esprit Saint,\nremplis les cœurs de tes fidèles\net allume en eux le feu de ton amour.\nAmen."
+    }
+  ]
+}

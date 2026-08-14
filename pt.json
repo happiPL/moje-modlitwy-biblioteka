@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Pai Nosso",
+      "text": "Pai nosso, que estais nos céus,\nsantificado seja o vosso nome,\nvenha a nós o vosso reino,\nseja feita a vossa vontade assim na terra como no céu.\nO pão nosso de cada dia nos dai hoje.\nPerdoai-nos as nossas ofensas,\nassim como nós perdoamos a quem nos tem ofendido.\nE não nos deixeis cair em tentação,\nmas livrai-nos do mal.\nÁmen."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Ave-Maria",
+      "text": "Ave-Maria, cheia de graça, o Senhor é convosco.\nBendita sois vós entre as mulheres\ne bendito é o fruto do vosso ventre, Jesus.\nSanta Maria, Mãe de Deus,\nrogai por nós, pecadores,\nagora e na hora da nossa morte.\nÁmen."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Glória ao Pai",
+      "text": "Glória ao Pai, ao Filho e ao Espírito Santo,\ncomo era no princípio, agora e sempre,\npelos séculos dos séculos.\nÁmen."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "Credo dos Apóstolos",
+      "text": "Creio em Deus, Pai todo-poderoso,\nCriador do céu e da terra.\nE em Jesus Cristo, seu único Filho, nosso Senhor,\nque foi concebido pelo poder do Espírito Santo,\nnasceu da Virgem Maria,\npadeceu sob Pôncio Pilatos,\nfoi crucificado, morto e sepultado.\nDesceu à mansão dos mortos, ressuscitou ao terceiro dia.\nSubiu aos céus, está sentado à direita de Deus Pai todo-poderoso.\nDe onde há de vir a julgar os vivos e os mortos.\nCreio no Espírito Santo,\nna santa Igreja católica, na comunhão dos santos,\nna remissão dos pecados, na ressurreição da carne,\nna vida eterna.\nÁmen."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "O Ângelus",
+      "text": "O Anjo do Senhor anunciou a Maria.\nE ela concebeu do Espírito Santo.\n\nAve-Maria...\n\nEis aqui a serva do Senhor.\nFaça-se em mim segundo a vossa palavra.\n\nAve-Maria...\n\nE o Verbo divino se fez carne.\nE habitou entre nós.\n\nAve-Maria...\n\nRogai por nós, santa Mãe de Deus.\nPara que sejamos dignos das promessas de Cristo.\n\nOremos: Infundi, Senhor, a vossa graça em nossas almas, para que nós, que pela anunciação do Anjo conhecemos a encarnação de Jesus Cristo, vosso Filho, pela sua paixão e cruz sejamos conduzidos à glória da ressurreição. Por Cristo, nosso Senhor.\nÁmen."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "À vossa proteção",
+      "text": "À vossa proteção recorremos, santa Mãe de Deus.\nNão desprezeis as nossas súplicas em nossas necessidades,\nmas livrai-nos sempre de todos os perigos,\nó Virgem gloriosa e bendita.\nÓ nossa Senhora, nossa medianeira,\nnossa advogada, nossa consoladora.\nReconciliai-nos com vosso Filho,\nrecomendai-nos a vosso Filho,\napresentai-nos a vosso Filho.\nÁmen."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Santo Anjo",
+      "text": "Santo Anjo do Senhor, meu zeloso guardador,\nse a ti me confiou a piedade divina,\nsempre me rege, me guarda, me governa e me ilumina.\nÁmen."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Ato de contrição",
+      "text": "Meu Deus, porque sois tão bom,\npesa-me de todo o coração de vos ter ofendido.\nDetesto todos os meus pecados\ne prometo, com a vossa graça,\nnunca mais vos tornar a ofender.\nÁmen."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Alma de Cristo",
+      "text": "Alma de Cristo, santificai-me.\nCorpo de Cristo, salvai-me.\nSangue de Cristo, inebriai-me.\nÁgua do lado de Cristo, lavai-me.\nPaixão de Cristo, confortai-me.\nÓ bom Jesus, ouvi-me.\nDentro das vossas chagas, escondei-me.\nNão permitais que me separe de vós.\nDo espírito maligno, defendei-me.\nNa hora da minha morte, chamai-me\ne mandai-me ir para vós,\npara que com os vossos santos vos louve\npelos séculos dos séculos.\nÁmen."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Ladainha de Nossa Senhora (fragmento)",
+      "text": "Senhor, tende piedade de nós. Cristo, tende piedade de nós. Senhor, tende piedade de nós.\nCristo, ouvi-nos. Cristo, atendei-nos.\n\nDeus Pai do céu — tende piedade de nós.\nDeus Filho, redentor do mundo — tende piedade de nós.\nDeus Espírito Santo — tende piedade de nós.\nSantíssima Trindade, que sois um só Deus — tende piedade de nós.\n\nSanta Maria — rogai por nós.\nSanta Mãe de Deus — rogai por nós.\nSanta Virgem das virgens — rogai por nós.\nMãe de Cristo — rogai por nós.\nMãe da Igreja — rogai por nós.\nMãe da divina graça — rogai por nós.\nMãe puríssima — rogai por nós.\nMãe amável — rogai por nós.\nMãe do bom conselho — rogai por nós.\nVirgem fiel — rogai por nós.\nEspelho de justiça — rogai por nós.\nTrono da sabedoria — rogai por nós.\nCausa da nossa alegria — rogai por nós.\nSaúde dos enfermos — rogai por nós.\nRefúgio dos pecadores — rogai por nós.\nConsoladora dos aflitos — rogai por nós.\nAuxílio dos cristãos — rogai por nós.\nRainha dos Anjos — rogai por nós.\nRainha de todos os Santos — rogai por nós.\nRainha da paz — rogai por nós.\n\nCordeiro de Deus, que tirais o pecado do mundo — perdoai-nos, Senhor.\nCordeiro de Deus, que tirais o pecado do mundo — ouvi-nos, Senhor.\nCordeiro de Deus, que tirais o pecado do mundo — tende piedade de nós.\n\nRogai por nós, santa Mãe de Deus.\nPara que sejamos dignos das promessas de Cristo.\nÁmen."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "O Rosário — como rezar",
+      "text": "No crucifixo: Creio em Deus...\nNa primeira conta: Pai Nosso...\nNas três contas: 3 × Ave-Maria (pela fé, esperança e caridade).\nGlória ao Pai...\n\nEm cada um dos cinco mistérios: Pai Nosso, 10 × Ave-Maria, Glória ao Pai.\n\nMISTÉRIOS GOZOSOS (segunda-feira, sábado):\n1. A Anunciação do Anjo a Nossa Senhora\n2. A Visitação de Nossa Senhora a Santa Isabel\n3. O Nascimento de Jesus\n4. A Apresentação de Jesus no templo\n5. A Perda e o Encontro de Jesus no templo\n\nMISTÉRIOS LUMINOSOS (quinta-feira):\n1. O Batismo de Jesus no Jordão\n2. As bodas de Caná\n3. O anúncio do Reino de Deus e o convite à conversão\n4. A Transfiguração no monte Tabor\n5. A instituição da Eucaristia\n\nMISTÉRIOS DOLOROSOS (terça-feira, sexta-feira):\n1. A Agonia de Jesus no horto\n2. A Flagelação de Jesus\n3. A Coroação de espinhos\n4. A subida ao Calvário com a cruz\n5. A Crucifixão e morte de Jesus\n\nMISTÉRIOS GLORIOSOS (quarta-feira, domingo):\n1. A Ressurreição de Jesus\n2. A Ascensão de Jesus ao céu\n3. A vinda do Espírito Santo\n4. A Assunção de Nossa Senhora ao céu\n5. A Coroação de Nossa Senhora como Rainha do céu e da terra"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Oração da manhã",
+      "text": "Deus Uno e Trino, Pai, Filho e Espírito Santo,\ndou-vos graças pela noite que passou\ne por este novo dia que me concedeis.\n\nOfereço-vos todos os pensamentos, palavras e obras deste dia.\nQue sejam para a vossa glória e para o bem do meu próximo.\nGuardai-me do pecado e de tudo o que me afasta de vós.\n\nMaria, Mãe de Deus, protegei-me ao longo de todo este dia.\nAnjo de Deus, meu guardador, conduzi-me pelos caminhos do bem.\nÁmen."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Oferecimento do dia",
+      "text": "Ó Jesus, pelo Coração Imaculado de Maria,\nofereço-vos as orações, obras, alegrias e sofrimentos deste dia,\nem reparação dos pecados,\npela salvação de todos os homens,\nem união com o sacrifício da Santa Missa em todo o mundo,\npelas intenções do Santo Padre.\nÁmen."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Exame de consciência",
+      "text": "Ó Deus, ao terminar este dia coloco-me diante de vós.\n\nDou-vos graças por todos os dons que hoje recebi,\npelos momentos de bem que me aconteceram,\npela ajuda que pude prestar aos outros.\n\nPeço-vos perdão pelos pensamentos, palavras e obras com que vos ofendi,\ne por aquilo que deixei de fazer por amor a vós e ao próximo.\n\nPeço-vos para amanhã a força de praticar o bem,\na coragem de evitar o mal,\ne a graça de viver segundo a vossa vontade.\nÁmen."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Oração da noite",
+      "text": "Ó Deus, dou-vos graças por este dia que agora terminou,\npor todo o bem que me concedestes.\n\nPeço-vos perdão por tudo aquilo com que hoje vos ofendi.\nPerdoai os meus pecados e as minhas culpas.\n\nConfio-vos os meus entes queridos, os meus amigos\ne todos os que necessitam da vossa ajuda.\n\nÀ vossa proteção confio esta noite.\nFazei que eu descanse em paz\ne que de manhã me levante para vos servir.\nÁmen."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Terço da Divina Misericórdia",
+      "text": "No início: Pai Nosso... Ave-Maria... Creio em Deus...\n\nNas contas grandes (uma vez em cada mistério):\nEterno Pai, eu vos ofereço o Corpo e Sangue,\nAlma e Divindade de vosso diletíssimo Filho,\nNosso Senhor Jesus Cristo,\nem expiação dos nossos pecados e dos do mundo inteiro.\n\nNas contas pequenas (10 vezes):\nPela sua dolorosa Paixão,\ntende misericórdia de nós e do mundo inteiro.\n\nNo final (3 vezes):\nDeus Santo, Deus Forte, Deus Imortal,\ntende piedade de nós e do mundo inteiro.\nÁmen."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Novena ao Espírito Santo",
+      "text": "(Rezada durante 9 dias consecutivos)\n\nEspírito Santo, nós vos pedimos,\nenviai-nos os vossos sete dons:\n\nDom da sabedoria — para que conheçamos Deus e a sua vontade.\nDom do entendimento — para que compreendamos as verdades da fé.\nDom do conselho — para que nas horas difíceis encontremos o bom caminho.\nDom da fortaleza — para que perseveremos no bem.\nDom da ciência — para que julguemos retamente as coisas criadas.\nDom da piedade — para que amemos a Deus e aos homens.\nDom do temor de Deus — para que receemos ofender a Deus.\n\nVinde, Espírito Santo,\nenchei os corações dos vossos fiéis\ne acendei neles o fogo do vosso amor.\nÁmen."
+    }
+  ]
+}

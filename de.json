@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Vaterunser",
+      "text": "Vater unser im Himmel,\ngeheiligt werde dein Name.\nDein Reich komme.\nDein Wille geschehe, wie im Himmel so auf Erden.\nUnser tägliches Brot gib uns heute.\nUnd vergib uns unsere Schuld,\nwie auch wir vergeben unsern Schuldigern.\nUnd führe uns nicht in Versuchung,\nsondern erlöse uns von dem Bösen.\nAmen."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Gegrüßet seist du, Maria",
+      "text": "Gegrüßet seist du, Maria, voll der Gnade,\nder Herr ist mit dir.\nDu bist gebenedeit unter den Frauen,\nund gebenedeit ist die Frucht deines Leibes, Jesus.\nHeilige Maria, Mutter Gottes,\nbitte für uns Sünder\njetzt und in der Stunde unseres Todes.\nAmen."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Ehre sei dem Vater",
+      "text": "Ehre sei dem Vater und dem Sohn und dem Heiligen Geist,\nwie im Anfang, so auch jetzt und alle Zeit\nund in Ewigkeit.\nAmen."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "Apostolisches Glaubensbekenntnis",
+      "text": "Ich glaube an Gott, den Vater, den Allmächtigen,\nden Schöpfer des Himmels und der Erde.\nUnd an Jesus Christus, seinen eingeborenen Sohn, unsern Herrn,\nempfangen durch den Heiligen Geist,\ngeboren von der Jungfrau Maria,\ngelitten unter Pontius Pilatus,\ngekreuzigt, gestorben und begraben,\nhinabgestiegen in das Reich des Todes,\nam dritten Tage auferstanden von den Toten,\naufgefahren in den Himmel;\ner sitzt zur Rechten Gottes, des allmächtigen Vaters;\nvon dort wird er kommen, zu richten die Lebenden und die Toten.\nIch glaube an den Heiligen Geist,\ndie heilige katholische Kirche, Gemeinschaft der Heiligen,\nVergebung der Sünden, Auferstehung der Toten\nund das ewige Leben.\nAmen."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "Der Engel des Herrn",
+      "text": "Der Engel des Herrn brachte Maria die Botschaft,\nund sie empfing vom Heiligen Geist.\n\nGegrüßet seist du, Maria …\n\nMaria sprach: Siehe, ich bin die Magd des Herrn;\nmir geschehe nach deinem Wort.\n\nGegrüßet seist du, Maria …\n\nUnd das Wort ist Fleisch geworden\nund hat unter uns gewohnt.\n\nGegrüßet seist du, Maria …\n\nBitte für uns, heilige Gottesmutter,\nauf dass wir würdig werden der Verheißungen Christi.\n\nLasset uns beten: Allmächtiger Gott, gieße deine Gnade in unsere Herzen ein. Durch die Botschaft des Engels haben wir die Menschwerdung Christi, deines Sohnes, erkannt. Lass uns durch sein Leiden und Kreuz zur Herrlichkeit der Auferstehung gelangen. Durch Christus, unsern Herrn.\nAmen."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "Unter deinen Schutz und Schirm",
+      "text": "Unter deinen Schutz und Schirm fliehen wir, heilige Gottesmutter.\nVerschmähe nicht unser Gebet in unseren Nöten,\nsondern erlöse uns jederzeit von allen Gefahren,\no du glorreiche und gebenedeite Jungfrau.\nUnsere Frau, unsere Mittlerin,\nunsere Fürsprecherin.\nVersöhne uns mit deinem Sohne,\nempfiehl uns deinem Sohne,\nstelle uns vor deinem Sohne.\nAmen."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Schutzengelgebet",
+      "text": "Heiliger Schutzengel mein,\nlass mich dir empfohlen sein.\nIn allen Nöten steh mir bei,\nzur Seite mir am Tage sei.\nBei Tag und Nacht, wo ich auch bin,\nweich, guter Engel, nicht von mir.\nBewahre Leib und Seele mein\nund führ mich einst zum Himmel ein.\nAmen."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Akt der Reue",
+      "text": "Mein Gott und Herr,\nvon ganzem Herzen bereue ich all meine Sünden,\nnicht nur aus Furcht vor deiner Strafe,\nsondern vor allem, weil ich dich beleidigt habe,\ndich, das höchste Gut, der du der Liebe würdig bist.\nIch nehme mir fest vor,\nmit Hilfe deiner Gnade mich zu bessern\nund nicht mehr zu sündigen.\nAmen."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Seele Christi",
+      "text": "Seele Christi, heilige mich.\nLeib Christi, rette mich.\nBlut Christi, tränke mich.\nWasser der Seite Christi, wasche mich.\nLeiden Christi, stärke mich.\nO guter Jesus, erhöre mich.\nBerge in deinen Wunden mich.\nVon dir lass nimmer scheiden mich.\nVor dem bösen Feind beschütze mich.\nIn meiner Todesstunde rufe mich\nund heiße zu dir kommen mich,\ndamit ich mit deinen Heiligen lobe dich\nin alle Ewigkeit.\nAmen."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Lauretanische Litanei (Auszug)",
+      "text": "Herr, erbarme dich unser. Christus, erbarme dich unser. Herr, erbarme dich unser.\nChristus, höre uns. Christus, erhöre uns.\n\nGott Vater im Himmel — erbarme dich unser.\nGott Sohn, Erlöser der Welt — erbarme dich unser.\nGott Heiliger Geist — erbarme dich unser.\nHeilige Dreifaltigkeit, ein einiger Gott — erbarme dich unser.\n\nHeilige Maria — bitte für uns.\nHeilige Mutter Gottes — bitte für uns.\nHeilige Jungfrau der Jungfrauen — bitte für uns.\nMutter Christi — bitte für uns.\nMutter der Kirche — bitte für uns.\nMutter der göttlichen Gnade — bitte für uns.\nDu reine Mutter — bitte für uns.\nDu liebenswürdige Mutter — bitte für uns.\nMutter des guten Rates — bitte für uns.\nDu getreue Jungfrau — bitte für uns.\nDu Spiegel der Gerechtigkeit — bitte für uns.\nDu Sitz der Weisheit — bitte für uns.\nDu Ursache unserer Freude — bitte für uns.\nDu Heil der Kranken — bitte für uns.\nDu Zuflucht der Sünder — bitte für uns.\nDu Trösterin der Betrübten — bitte für uns.\nDu Hilfe der Christen — bitte für uns.\nDu Königin der Engel — bitte für uns.\nDu Königin aller Heiligen — bitte für uns.\nDu Königin des Friedens — bitte für uns.\n\nO du Lamm Gottes, das du hinwegnimmst die Sünden der Welt — verschone uns, o Herr.\nO du Lamm Gottes, das du hinwegnimmst die Sünden der Welt — erhöre uns, o Herr.\nO du Lamm Gottes, das du hinwegnimmst die Sünden der Welt — erbarme dich unser.\n\nBitte für uns, heilige Gottesmutter.\nAuf dass wir würdig werden der Verheißungen Christi.\nAmen."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "Der Rosenkranz — wie man ihn betet",
+      "text": "Am Kreuz: Ich glaube an Gott …\nAuf dem ersten Perle: Vater unser …\nAuf den drei Perlen: 3 × Gegrüßet seist du, Maria (um Glaube, Hoffnung und Liebe).\nEhre sei dem Vater …\n\nJedes der fünf Geheimnisse: Vater unser, 10 × Gegrüßet seist du, Maria, Ehre sei dem Vater.\n\nDIE FREUDENREICHEN GEHEIMNISSE (Montag, Samstag):\n1. Jesus, den du, o Jungfrau, vom Heiligen Geist empfangen hast\n2. Jesus, den du zu Elisabeth getragen hast\n3. Jesus, den du, o Jungfrau, geboren hast\n4. Jesus, den du im Tempel aufgeopfert hast\n5. Jesus, den du im Tempel wiedergefunden hast\n\nDIE LICHTREICHEN GEHEIMNISSE (Donnerstag):\n1. Jesus, der von Johannes getauft worden ist\n2. Jesus, der sich bei der Hochzeit zu Kana offenbart hat\n3. Jesus, der das Reich Gottes verkündet und zur Umkehr gerufen hat\n4. Jesus, der auf dem Berg verklärt worden ist\n5. Jesus, der uns die Eucharistie geschenkt hat\n\nDIE SCHMERZHAFTEN GEHEIMNISSE (Dienstag, Freitag):\n1. Jesus, der für uns Blut geschwitzt hat\n2. Jesus, der für uns gegeißelt worden ist\n3. Jesus, der für uns mit Dornen gekrönt worden ist\n4. Jesus, der für uns das schwere Kreuz getragen hat\n5. Jesus, der für uns gekreuzigt worden ist\n\nDIE GLORREICHEN GEHEIMNISSE (Mittwoch, Sonntag):\n1. Jesus, der von den Toten auferstanden ist\n2. Jesus, der in den Himmel aufgefahren ist\n3. Jesus, der uns den Heiligen Geist gesandt hat\n4. Jesus, der dich, o Jungfrau, in den Himmel aufgenommen hat\n5. Jesus, der dich, o Jungfrau, im Himmel gekrönt hat"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Morgengebet",
+      "text": "Dreieiniger Gott, Vater, Sohn und Heiliger Geist,\nich danke dir für die vergangene Nacht\nund für diesen neuen Tag, den du mir schenkst.\n\nIch opfere dir all meine Gedanken, Worte und Werke dieses Tages auf.\nMögen sie zu deiner Ehre und zum Wohl meiner Mitmenschen sein.\nBewahre mich vor der Sünde und vor allem, was mich von dir entfernt.\n\nMaria, Mutter Gottes, beschütze mich diesen ganzen Tag.\nHeiliger Schutzengel, führe mich auf den Wegen des Guten.\nAmen."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Aufopferung des Tages",
+      "text": "O Jesus, durch das Unbefleckte Herz Mariens\nopfere ich dir auf die Gebete, Werke, Freuden und Leiden dieses Tages,\nzur Sühne für die Sünden,\nfür das Heil aller Menschen,\nin Vereinigung mit dem heiligen Messopfer auf der ganzen Welt,\nin den Anliegen des Heiligen Vaters.\nAmen."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Gewissenserforschung",
+      "text": "Gott, am Ende dieses Tages stehe ich vor dir.\n\nIch danke dir für alle Gaben, die ich heute empfangen habe,\nfür die Augenblicke des Guten, die mir widerfahren sind,\nfür die Hilfe, die ich anderen erweisen durfte.\n\nIch bitte dich um Verzeihung für die Gedanken, Worte und Werke,\nmit denen ich dich beleidigt habe,\nund für das, was ich aus Liebe zu dir und zum Nächsten versäumt habe.\n\nIch bitte dich für morgen um Kraft, das Gute zu tun,\num Mut, das Böse zu meiden,\nund um die Gnade, nach deinem Willen zu leben.\nAmen."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Abendgebet",
+      "text": "Gott, ich danke dir für diesen Tag, der eben vergangen ist,\nfür alles Gute, das du mir erwiesen hast.\n\nIch bitte dich um Verzeihung für alles, womit ich dich heute beleidigt habe.\nVergib mir meine Sünden und meine Schuld.\n\nIch empfehle dir meine Lieben, meine Freunde\nund alle, die deiner Hilfe bedürfen.\n\nDeinem Schutz empfehle ich diese Nacht.\nLass mich in Frieden ruhen\nund am Morgen zu deinem Dienst erwachen.\nAmen."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Barmherzigkeitsrosenkranz",
+      "text": "Zu Beginn: Vater unser… Gegrüßet seist du, Maria… Ich glaube an Gott…\n\nAuf den großen Perlen (einmal vor jedem Gesätz):\nEwiger Vater, ich opfere dir auf den Leib und das Blut,\ndie Seele und die Gottheit deines über alles geliebten Sohnes,\nunseres Herrn Jesus Christus,\nzur Sühne für unsere Sünden und für die Sünden der ganzen Welt.\n\nAuf den kleinen Perlen (10-mal):\nDurch sein schmerzhaftes Leiden\nhabe Erbarmen mit uns und mit der ganzen Welt.\n\nZum Abschluss (3-mal):\nHeiliger Gott, heiliger, starker Gott, heiliger, unsterblicher Gott,\nerbarme dich unser und der ganzen Welt.\nAmen."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Novene zum Heiligen Geist",
+      "text": "(An neun aufeinanderfolgenden Tagen zu beten)\n\nHeiliger Geist, wir bitten dich,\nsende uns deine sieben Gaben:\n\nDie Gabe der Weisheit — damit wir Gott und seinen Willen erkennen.\nDie Gabe des Verstandes — damit wir die Wahrheiten des Glaubens begreifen.\nDie Gabe des Rates — damit wir in schweren Stunden den rechten Weg finden.\nDie Gabe der Stärke — damit wir im Guten ausharren.\nDie Gabe der Erkenntnis — damit wir die geschaffenen Dinge richtig beurteilen.\nDie Gabe der Frömmigkeit — damit wir Gott und die Menschen lieben.\nDie Gabe der Gottesfurcht — damit wir uns scheuen, Gott zu beleidigen.\n\nKomm, Heiliger Geist,\nerfülle die Herzen deiner Gläubigen\nund entzünde in ihnen das Feuer deiner Liebe.\nAmen."
+    }
+  ]
+}

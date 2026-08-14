@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Padre nuestro",
+      "text": "Padre nuestro, que estás en el cielo,\nsantificado sea tu Nombre;\nvenga a nosotros tu reino;\nhágase tu voluntad en la tierra como en el cielo.\nDanos hoy nuestro pan de cada día;\nperdona nuestras ofensas,\ncomo también nosotros perdonamos a los que nos ofenden;\nno nos dejes caer en la tentación,\ny líbranos del mal.\nAmén."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Avemaría",
+      "text": "Dios te salve, María, llena eres de gracia;\nel Señor es contigo.\nBendita tú eres entre todas las mujeres,\ny bendito es el fruto de tu vientre, Jesús.\nSanta María, Madre de Dios,\nruega por nosotros, pecadores,\nahora y en la hora de nuestra muerte.\nAmén."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Gloria",
+      "text": "Gloria al Padre, y al Hijo, y al Espíritu Santo.\nComo era en el principio, ahora y siempre,\npor los siglos de los siglos.\nAmén."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "Credo de los Apóstoles",
+      "text": "Creo en Dios, Padre todopoderoso,\nCreador del cielo y de la tierra.\nCreo en Jesucristo, su único Hijo, nuestro Señor,\nque fue concebido por obra y gracia del Espíritu Santo,\nnació de santa María Virgen,\npadeció bajo el poder de Poncio Pilato,\nfue crucificado, muerto y sepultado,\ndescendió a los infiernos,\nal tercer día resucitó de entre los muertos,\nsubió a los cielos\ny está sentado a la derecha de Dios, Padre todopoderoso.\nDesde allí ha de venir a juzgar a vivos y muertos.\nCreo en el Espíritu Santo,\nla santa Iglesia católica, la comunión de los santos,\nel perdón de los pecados,\nla resurrección de la carne\ny la vida eterna.\nAmén."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "El Ángelus",
+      "text": "El Ángel del Señor anunció a María.\nY concibió por obra del Espíritu Santo.\n\nDios te salve, María...\n\nHe aquí la esclava del Señor.\nHágase en mí según tu palabra.\n\nDios te salve, María...\n\nY el Verbo se hizo carne.\nY habitó entre nosotros.\n\nDios te salve, María...\n\nRuega por nosotros, santa Madre de Dios.\nPara que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.\n\nOremos: Infunde, Señor, tu gracia en nuestras almas, para que, los que hemos conocido, por el anuncio del Ángel, la encarnación de tu Hijo Jesucristo, lleguemos, por los méritos de su pasión y de su cruz, a la gloria de la resurrección. Por el mismo Jesucristo, nuestro Señor.\nAmén."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "Bajo tu amparo",
+      "text": "Bajo tu amparo nos acogemos, santa Madre de Dios;\nno deseches las súplicas que te dirigimos en nuestras necesidades,\nantes bien líbranos siempre de todo peligro,\noh Virgen gloriosa y bendita.\nRuega por nosotros, santa Madre de Dios,\npara que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.\nAmén."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Ángel de la Guarda",
+      "text": "Ángel de la Guarda,\ndulce compañía,\nno me desampares\nni de noche ni de día.\nNo me dejes solo,\nque me perdería.\nAmén."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Acto de contrición",
+      "text": "Señor mío Jesucristo,\nDios y hombre verdadero,\nCreador, Padre y Redentor mío;\npor ser Tú quien eres, Bondad infinita,\ny porque te amo sobre todas las cosas,\nme pesa de todo corazón haberte ofendido;\ntambién me pesa porque puedes castigarme\ncon las penas del infierno.\nAyudado de tu divina gracia,\npropongo firmemente nunca más pecar,\nconfesarme y cumplir la penitencia que me fuere impuesta.\nAmén."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Alma de Cristo",
+      "text": "Alma de Cristo, santifícame.\nCuerpo de Cristo, sálvame.\nSangre de Cristo, embriágame.\nAgua del costado de Cristo, lávame.\nPasión de Cristo, confórtame.\n¡Oh, buen Jesús!, óyeme.\nDentro de tus llagas, escóndeme.\nNo permitas que me aparte de Ti.\nDel maligno enemigo, defiéndeme.\nEn la hora de mi muerte, llámame.\nY mándame ir a Ti,\npara que con tus santos te alabe\npor los siglos de los siglos.\nAmén."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Letanías Lauretanas (fragmento)",
+      "text": "Señor, ten piedad. Cristo, ten piedad. Señor, ten piedad.\nCristo, óyenos. Cristo, escúchanos.\n\nDios, Padre celestial — ten piedad de nosotros.\nDios Hijo, Redentor del mundo — ten piedad de nosotros.\nDios Espíritu Santo — ten piedad de nosotros.\nTrinidad Santa, un solo Dios — ten piedad de nosotros.\n\nSanta María — ruega por nosotros.\nSanta Madre de Dios — ruega por nosotros.\nSanta Virgen de las vírgenes — ruega por nosotros.\nMadre de Cristo — ruega por nosotros.\nMadre de la Iglesia — ruega por nosotros.\nMadre de la divina gracia — ruega por nosotros.\nMadre purísima — ruega por nosotros.\nMadre amable — ruega por nosotros.\nMadre del buen consejo — ruega por nosotros.\nVirgen fiel — ruega por nosotros.\nEspejo de justicia — ruega por nosotros.\nTrono de la sabiduría — ruega por nosotros.\nCausa de nuestra alegría — ruega por nosotros.\nSalud de los enfermos — ruega por nosotros.\nRefugio de los pecadores — ruega por nosotros.\nConsuelo de los afligidos — ruega por nosotros.\nAuxilio de los cristianos — ruega por nosotros.\nReina de los Ángeles — ruega por nosotros.\nReina de todos los Santos — ruega por nosotros.\nReina de la paz — ruega por nosotros.\n\nCordero de Dios, que quitas el pecado del mundo — perdónanos, Señor.\nCordero de Dios, que quitas el pecado del mundo — escúchanos, Señor.\nCordero de Dios, que quitas el pecado del mundo — ten piedad de nosotros.\n\nRuega por nosotros, santa Madre de Dios.\nPara que seamos dignos de alcanzar las promesas de nuestro Señor Jesucristo.\nAmén."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "El Rosario — cómo rezarlo",
+      "text": "En el crucifijo: Credo de los Apóstoles...\nEn la primera cuenta: Padre nuestro...\nEn las tres cuentas: 3 × Avemaría (por la fe, la esperanza y la caridad).\nGloria al Padre...\n\nEn cada uno de los cinco misterios: Padre nuestro, 10 × Avemaría, Gloria al Padre.\n\nMISTERIOS GOZOSOS (lunes y sábado):\n1. La Anunciación del Ángel a la Virgen María\n2. La Visitación de María a su prima santa Isabel\n3. El Nacimiento de Jesús en Belén\n4. La Presentación de Jesús en el templo\n5. El Niño Jesús perdido y hallado en el templo\n\nMISTERIOS LUMINOSOS (jueves):\n1. El Bautismo de Jesús en el Jordán\n2. Las bodas de Caná\n3. El anuncio del Reino de Dios y la invitación a la conversión\n4. La Transfiguración del Señor\n5. La institución de la Eucaristía\n\nMISTERIOS DOLOROSOS (martes y viernes):\n1. La Oración de Jesús en el huerto\n2. La Flagelación del Señor\n3. La Coronación de espinas\n4. Jesús con la cruz a cuestas camino del Calvario\n5. La Crucifixión y muerte de Jesús\n\nMISTERIOS GLORIOSOS (miércoles y domingo):\n1. La Resurrección del Señor\n2. La Ascensión del Señor al cielo\n3. La Venida del Espíritu Santo\n4. La Asunción de la Virgen María al cielo\n5. La Coronación de la Santísima Virgen como Reina del cielo y de la tierra"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Oración de la mañana",
+      "text": "Dios uno y trino, Padre, Hijo y Espíritu Santo,\nte doy gracias por la noche que ha pasado\ny por este nuevo día que me concedes.\n\nTe ofrezco todos los pensamientos, palabras y obras de este día.\nQue sean para tu gloria y para el bien de mis prójimos.\nGuárdame del pecado y de todo lo que me aparta de Ti.\n\nMaría, Madre de Dios, protégeme durante todo este día.\nÁngel de Dios, mi custodio, guíame por los caminos del bien.\nAmén."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Ofrecimiento del día",
+      "text": "Oh Jesús, por el Corazón Inmaculado de María,\nte ofrezco las oraciones, trabajos, alegrías y sufrimientos de este día,\nen reparación por los pecados,\npara la salvación de todos los hombres,\nen unión con el sacrificio de la santa Misa en todo el mundo,\npor las intenciones del Santo Padre.\nAmén."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Examen de conciencia",
+      "text": "Dios mío, al terminar este día me presento ante Ti.\n\nTe doy gracias por todos los dones que hoy he recibido,\npor los momentos de bien que me han sucedido,\npor la ayuda que he podido brindar a los demás.\n\nTe pido perdón por los pensamientos, palabras y obras con que te he ofendido,\ny por lo que he dejado de hacer por amor a Ti y a mis prójimos.\n\nTe pido para mañana la fuerza de obrar el bien,\nel valor de evitar el mal,\ny la gracia de vivir según tu voluntad.\nAmén."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Oración de la noche",
+      "text": "Dios mío, te doy gracias por este día que acaba de pasar,\npor todo el bien que me has concedido.\n\nTe pido perdón por todo aquello con que hoy te he ofendido.\nPerdona mis pecados y mis culpas.\n\nTe encomiendo a mis seres queridos, a mis amigos\ny a todos los que necesitan de tu ayuda.\n\nA tu protección encomiendo esta noche.\nConcédeme descansar en paz,\ny que por la mañana me levante para servirte.\nAmén."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Coronilla de la Divina Misericordia",
+      "text": "Al comenzar: Padre nuestro... Dios te salve, María... Creo en Dios...\n\nEn las cuentas grandes (una vez por cada misterio):\nPadre Eterno, te ofrezco el Cuerpo y la Sangre,\nel Alma y la Divinidad de tu amadísimo Hijo,\nnuestro Señor Jesucristo,\ncomo propiciación por nuestros pecados y los del mundo entero.\n\nEn las cuentas pequeñas (10 veces):\nPor su dolorosa Pasión,\nten misericordia de nosotros y del mundo entero.\n\nAl terminar (3 veces):\nSanto Dios, Santo Fuerte, Santo Inmortal,\nten piedad de nosotros y del mundo entero.\nAmén."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Novena al Espíritu Santo",
+      "text": "(Se reza durante 9 días consecutivos)\n\nEspíritu Santo, te pedimos\nque nos envíes tus siete dones:\n\nDon de sabiduría — para que conozcamos a Dios y su voluntad.\nDon de entendimiento — para que comprendamos las verdades de la fe.\nDon de consejo — para que en los momentos difíciles hallemos el buen camino.\nDon de fortaleza — para que perseveremos en el bien.\nDon de ciencia — para que valoremos rectamente las cosas creadas.\nDon de piedad — para que amemos a Dios y a los hombres.\nDon de temor de Dios — para que temamos ofender a Dios.\n\nVen, Espíritu Santo,\nllena los corazones de tus fieles\ny enciende en ellos el fuego de tu amor.\nAmén."
+    }
+  ]
+}

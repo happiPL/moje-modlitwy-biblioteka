@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "prayers": [
+    {
+      "id": "ojcze-nasz",
+      "libraryCategory": "basic",
+      "title": "Ojcze nasz",
+      "text": "Ojcze nasz, któryś jest w niebie,\nświęć się imię Twoje,\nprzyjdź królestwo Twoje,\nbądź wola Twoja jako w niebie, tak i na ziemi.\nChleba naszego powszedniego daj nam dzisiaj.\nI odpuść nam nasze winy,\njako i my odpuszczamy naszym winowajcom.\nI nie wódź nas na pokuszenie,\nale nas zbaw ode złego.\nAmen."
+    },
+    {
+      "id": "zdrowas-maryjo",
+      "libraryCategory": "marian",
+      "title": "Zdrowaś Maryjo",
+      "text": "Zdrowaś Maryjo, łaski pełna, Pan z Tobą.\nBłogosławionaś Ty między niewiastami\ni błogosławiony owoc żywota Twojego, Jezus.\nŚwięta Maryjo, Matko Boża,\nmódl się za nami grzesznymi\nteraz i w godzinę śmierci naszej.\nAmen."
+    },
+    {
+      "id": "chwala-ojcu",
+      "libraryCategory": "basic",
+      "title": "Chwała Ojcu",
+      "text": "Chwała Ojcu i Synowi, i Duchowi Świętemu,\njak była na początku, teraz i zawsze,\ni na wieki wieków.\nAmen."
+    },
+    {
+      "id": "sklad-apostolski",
+      "libraryCategory": "basic",
+      "title": "Wierzę w Boga (Skład Apostolski)",
+      "text": "Wierzę w Boga, Ojca wszechmogącego,\nStworzyciela nieba i ziemi.\nI w Jezusa Chrystusa, Syna Jego jedynego, Pana naszego,\nktóry się począł z Ducha Świętego,\nnarodził się z Maryi Panny,\numęczon pod Ponckim Piłatem,\nukrzyżowan, umarł i pogrzebion.\nZstąpił do piekieł, trzeciego dnia zmartwychwstał.\nWstąpił na niebiosa, siedzi po prawicy Boga Ojca wszechmogącego.\nStamtąd przyjdzie sądzić żywych i umarłych.\nWierzę w Ducha Świętego,\nświęty Kościół powszechny, świętych obcowanie,\ngrzechów odpuszczenie, ciała zmartwychwstanie,\nżywot wieczny.\nAmen."
+    },
+    {
+      "id": "aniol-panski",
+      "libraryCategory": "marian",
+      "title": "Anioł Pański",
+      "text": "Anioł Pański zwiastował Pannie Maryi.\nI poczęła z Ducha Świętego.\n\nZdrowaś Maryjo...\n\nOto ja, służebnica Pańska.\nNiech mi się stanie według słowa Twego.\n\nZdrowaś Maryjo...\n\nA Słowo stało się ciałem.\nI zamieszkało między nami.\n\nZdrowaś Maryjo...\n\nMódl się za nami, święta Boża Rodzicielko.\nAbyśmy się stali godnymi obietnic Chrystusowych.\n\nMódlmy się: Łaskę Twoją, prosimy Cię, Panie, racz wlać w serca nasze, abyśmy, którzy za zwiastowaniem anielskim Wcielenie Chrystusa, Syna Twego, poznali, przez mękę Jego i krzyż do chwały zmartwychwstania byli doprowadzeni. Przez Chrystusa, Pana naszego.\nAmen."
+    },
+    {
+      "id": "pod-twoja-obrone",
+      "libraryCategory": "marian",
+      "title": "Pod Twoją obronę",
+      "text": "Pod Twoją obronę uciekamy się, Święta Boża Rodzicielko.\nNaszymi prośbami racz nie gardzić w potrzebach naszych,\nale od wszelakich złych przygód racz nas zawsze wybawiać,\nPanno chwalebna i błogosławiona.\nO Pani nasza, Orędowniczko nasza,\nPośredniczko nasza, Pocieszycielko nasza.\nZ Synem swoim nas pojednaj,\nSynowi swojemu nas polecaj,\nswojemu Synowi nas oddawaj.\nAmen."
+    },
+    {
+      "id": "aniele-bozy",
+      "libraryCategory": "basic",
+      "title": "Aniele Boży",
+      "text": "Aniele Boży, stróżu mój,\nTy zawsze przy mnie stój.\nRano, wieczór, we dnie, w nocy\nbądź mi zawsze ku pomocy.\nStrzeż duszy, ciała mego\ni zaprowadź mnie do żywota wiecznego.\nAmen."
+    },
+    {
+      "id": "akt-zalu",
+      "libraryCategory": "basic",
+      "title": "Akt żalu",
+      "text": "Ach, żałuję za me złości\njedynie dla Twej miłości.\nBądź miłościw mnie grzesznemu,\ncałym sercem skruszonemu.\nAmen."
+    },
+    {
+      "id": "duszo-chrystusowa",
+      "libraryCategory": "basic",
+      "title": "Duszo Chrystusowa",
+      "text": "Duszo Chrystusowa, uświęć mnie.\nCiało Chrystusowe, zbaw mnie.\nKrwi Chrystusowa, napój mnie.\nWodo z boku Chrystusowego, obmyj mnie.\nMęko Chrystusowa, pokrzep mnie.\nO dobry Jezu, wysłuchaj mnie.\nW ranach swoich ukryj mnie.\nNie dopuść mi oddalić się od Ciebie.\nOd złego ducha broń mnie.\nW godzinę śmierci wezwij mnie\ni każ mi przyjść do siebie,\nabym ze świętymi Twymi chwalił Cię\nna wieki wieków.\nAmen."
+    },
+    {
+      "id": "litania-loretanska",
+      "libraryCategory": "marian",
+      "title": "Litania Loretańska (fragment)",
+      "text": "Kyrie, elejson. Chryste, elejson. Kyrie, elejson.\nChryste, usłysz nas. Chryste, wysłuchaj nas.\n\nOjcze z nieba, Boże — zmiłuj się nad nami.\nSynu, Odkupicielu świata, Boże — zmiłuj się nad nami.\nDuchu Święty, Boże — zmiłuj się nad nami.\nŚwięta Trójco, Jedyny Boże — zmiłuj się nad nami.\n\nŚwięta Maryjo — módl się za nami.\nŚwięta Boża Rodzicielko — módl się za nami.\nŚwięta Panno nad pannami — módl się za nami.\nMatko Chrystusowa — módl się za nami.\nMatko Kościoła — módl się za nami.\nMatko łaski Bożej — módl się za nami.\nMatko nieskalana — módl się za nami.\nMatko najmilsza — módl się za nami.\nMatko dobrej rady — módl się za nami.\nPanno wierna — módl się za nami.\nZwierciadło sprawiedliwości — módl się za nami.\nStolico mądrości — módl się za nami.\nPrzyczyno naszej radości — módl się za nami.\nUzdrowienie chorych — módl się za nami.\nUcieczko grzesznych — módl się za nami.\nPocieszycielko strapionych — módl się za nami.\nWspomożenie wiernych — módl się za nami.\nKrólowo Aniołów — módl się za nami.\nKrólowo wszystkich Świętych — módl się za nami.\nKrólowo pokoju — módl się za nami.\nKrólowo Polski — módl się za nami.\n\nBaranku Boży, który gładzisz grzechy świata — przepuść nam, Panie.\nBaranku Boży, który gładzisz grzechy świata — wysłuchaj nas, Panie.\nBaranku Boży, który gładzisz grzechy świata — zmiłuj się nad nami.\n\nMódl się za nami, Święta Boża Rodzicielko.\nAbyśmy się stali godnymi obietnic Chrystusowych.\nAmen."
+    },
+    {
+      "id": "rozaniec",
+      "libraryCategory": "rosary",
+      "title": "Różaniec — jak się modlić",
+      "text": "Na krzyżyku: Wierzę w Boga...\nNa pierwszym paciorku: Ojcze nasz...\nNa trzech paciorkach: 3 × Zdrowaś Maryjo (o wiarę, nadzieję i miłość).\nChwała Ojcu...\n\nKażda z pięciu tajemnic: Ojcze nasz, 10 × Zdrowaś Maryjo, Chwała Ojcu.\n\nTAJEMNICE RADOSNE (poniedziałek, sobota):\n1. Zwiastowanie Najświętszej Maryi Pannie\n2. Nawiedzenie świętej Elżbiety\n3. Narodzenie Pana Jezusa\n4. Ofiarowanie Pana Jezusa w świątyni\n5. Odnalezienie Pana Jezusa w świątyni\n\nTAJEMNICE ŚWIATŁA (czwartek):\n1. Chrzest Pana Jezusa w Jordanie\n2. Cud w Kanie Galilejskiej\n3. Głoszenie królestwa Bożego i wzywanie do nawrócenia\n4. Przemienienie na górze Tabor\n5. Ustanowienie Eucharystii\n\nTAJEMNICE BOLESNE (wtorek, piątek):\n1. Modlitwa Pana Jezusa w Ogrójcu\n2. Biczowanie Pana Jezusa\n3. Cierniem ukoronowanie\n4. Droga krzyżowa\n5. Ukrzyżowanie i śmierć na krzyżu\n\nTAJEMNICE CHWALEBNE (środa, niedziela):\n1. Zmartwychwstanie Pana Jezusa\n2. Wniebowstąpienie\n3. Zesłanie Ducha Świętego\n4. Wniebowzięcie Najświętszej Maryi Panny\n5. Ukoronowanie Maryi na Królową nieba i ziemi"
+    },
+    {
+      "id": "modlitwa-poranna",
+      "libraryCategory": "morning",
+      "title": "Modlitwa poranna",
+      "text": "Boże w Trójcy Jedyny, Ojcze, Synu i Duchu Święty,\ndziękuję Ci za noc, która minęła,\ni za ten nowy dzień, który mi dajesz.\n\nOfiaruję Ci wszystkie myśli, słowa i uczynki tego dnia.\nNiech będą na Twoją chwałę i ku pożytkowi moich bliźnich.\nStrzeż mnie od grzechu i od wszystkiego, co oddala mnie od Ciebie.\n\nMaryjo, Matko Boża, otaczaj mnie opieką przez cały ten dzień.\nAniele Boży, stróżu mój, prowadź mnie drogami dobra.\nAmen."
+    },
+    {
+      "id": "ofiarowanie-dnia",
+      "libraryCategory": "morning",
+      "title": "Ofiarowanie dnia",
+      "text": "O Jezu, przez Niepokalane Serce Maryi,\nofiaruję Ci modlitwy, prace, radości i cierpienia tego dnia,\nna wynagrodzenie za grzechy,\ndla zbawienia wszystkich ludzi,\nw jedności z ofiarą Mszy świętej na całym świecie,\nna intencje Ojca Świętego.\nAmen."
+    },
+    {
+      "id": "rachunek-sumienia",
+      "libraryCategory": "evening",
+      "title": "Rachunek sumienia",
+      "text": "Boże, na zakończenie tego dnia staję przed Tobą.\n\nDziękuję Ci za wszystkie dary, które otrzymałem dziś,\nza chwile dobra, które mi się przydarzyły,\nza pomoc, którą mogłem okazać innym.\n\nPrzepraszam Cię za myśli, słowa i uczynki, którymi Cię obraziłem,\ni za to, co zaniedbałem zrobić z miłości do Ciebie i bliźnich.\n\nProszę Cię na jutro o siłę, by czynić dobro,\no odwagę, by unikać zła,\ni o łaskę, by żyć według Twojej woli.\nAmen."
+    },
+    {
+      "id": "modlitwa-wieczorna",
+      "libraryCategory": "evening",
+      "title": "Modlitwa wieczorna",
+      "text": "Boże, dziękuję Ci za ten dzień, który właśnie minął,\nza wszelkie dobro, które mi wyświadczyłeś.\n\nPrzepraszam Cię za wszystko, czym Cię dzisiaj obraziłem.\nOdpuść mi moje grzechy i winy.\n\nPolecam Ci moich bliskich, przyjaciół\ni wszystkich, którzy potrzebują Twojej pomocy.\n\nOpiece Twojej polecam tę noc.\nSpraw, bym odpoczął w pokoju,\na rano stanął do służby Tobie.\nAmen."
+    },
+    {
+      "id": "koronka-mbm",
+      "libraryCategory": "chaplet",
+      "title": "Koronka do Miłosierdzia Bożego",
+      "text": "Na początku: Ojcze nasz... Zdrowaś Maryjo... Wierzę w Boga...\n\nNa dużych paciorkach (raz na każdą tajemnicę):\nOjcze Przedwieczny, ofiaruję Ci Ciało i Krew,\nDuszę i Bóstwo najmilszego Syna Twojego,\na Pana naszego Jezusa Chrystusa,\nna przebłaganie za grzechy nasze i całego świata.\n\nNa małych paciorkach (10 razy):\nDla Jego bolesnej Męki,\nmiej miłosierdzie dla nas i całego świata.\n\nNa zakończenie (3 razy):\nŚwięty Boże, Święty Mocny, Święty Nieśmiertelny,\nzmiłuj się nad nami i nad całym światem.\nAmen."
+    },
+    {
+      "id": "nowenna-ducha",
+      "libraryCategory": "novena",
+      "title": "Nowenna do Ducha Świętego",
+      "text": "(Odmawiana przez 9 kolejnych dni)\n\nDuchu Święty, prosimy Cię,\nześlij nam Twoje siedem darów:\n\nDar mądrości — abyśmy poznali Boga i Jego wolę.\nDar rozumu — abyśmy pojęli prawdy wiary.\nDar rady — abyśmy w trudnych chwilach znajdowali dobrą drogę.\nDar męstwa — abyśmy wytrwali w dobrem.\nDar umiejętności — abyśmy właściwie oceniali rzeczy stworzone.\nDar pobożności — abyśmy miłowali Boga i ludzi.\nDar bojaźni Bożej — abyśmy lękali się obrazić Boga.\n\nPrzyjdź, Duchu Święty,\nnapełnij serca Twoich wiernych\ni zapal w nich ogień Twojej miłości.\nAmen."
+    }
+  ]
+}
